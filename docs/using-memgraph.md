@@ -18,7 +18,7 @@ the lab.
 
 ## Fetching something from the graph
 
-A nice simple discovery query, fetches 500 edges from the graph:
+A nice simple discovery query, fetches 100 edges from the graph:
 ```
 MATCH p=()-[]->()
 RETURN p

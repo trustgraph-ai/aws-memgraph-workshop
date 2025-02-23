@@ -976,7 +976,7 @@ services:
     - -t
     - '0.150'
     - -m
-    - anthropic.claude-3-5-haiku-20241022-v1:0
+    - anthropic.claude-3-5-sonnet-20241022-v2:0
     deploy:
       resources:
         limits:
@@ -999,7 +999,7 @@ services:
     - -t
     - '0.150'
     - -m
-    - anthropic.claude-3-5-haiku-20241022-v1:0
+    - anthropic.claude-3-5-sonnet-20241022-v2:0
     - -i
     - non-persistent://tg/request/text-completion-rag
     - -o
