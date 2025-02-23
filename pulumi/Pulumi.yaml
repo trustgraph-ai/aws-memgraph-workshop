@@ -1,0 +1,5 @@
+name: trustgraph
+description: Trustgraph deployment
+runtime: nodejs
+# backend:
+#   url: s3://bucket-state/whatever?region=eu-west-2

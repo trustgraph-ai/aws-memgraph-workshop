@@ -1,0 +1,8 @@
+encryptionsalt: v1:1UK8A4yG5JE=:v1:8xtRfLggjL0RMbW+:lvXR4Cs07qLir2JKds8PmMX2q4+fHw==
+config:
+  trustgraph:environment: workshop
+  trustgraph:region: us-west-2
+  trustgraph:vpc-cidr: 172.38.0.0/16
+  trustgraph:pub-subnet-cidr: 172.38.48.0/20
+  trustgraph:trustgraph-version: 0.20.11
+  trustgraph:volume-size: 100
