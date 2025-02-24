@@ -108,23 +108,6 @@ Things you can do...
   information to the graph.
 - Use the pointer to rotate space and move around the 3D space.
 
-## Agents
-
-This isn't in the workbench, but TrustGraph includes a React agent.  To get
-it to work means tailoring the prompt strings for the dataset.
-
-See if you get anything useful for this:
-
-```
-tg-invoke-agent -v -q 'What do you know about an accident on September 22, 2024?  What does it have in common with the accident on December 9, 2024.'
-```
-
-and
-
-```
-tg-invoke-agent -v -q 'Which incident involved a Robinson helicopter?  Did any of these involve N314AC?'
-```
-
 ![Screenshot of chat](workbench-chat.png)
 
 ![Screenshot of search](workbench-search.png)
