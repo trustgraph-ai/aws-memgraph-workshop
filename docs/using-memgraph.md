@@ -97,5 +97,5 @@ query to filter out irrelevant things.
 
 When you are finished:
 
-[Undeploy, delete everything deployed earlier](docs/undeploy.md)
+[Undeploy, delete everything deployed earlier](undeploy.md)
 
