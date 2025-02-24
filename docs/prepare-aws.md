@@ -133,3 +133,7 @@ region = us-west-2
 You can put that at the end of the file.  The bit of text `[workshop]`
 gives this a profile name of workshop, we'll set this later.
 
+## What's next?
+
+Next: [Prepare to deploy](prepare.md)
+

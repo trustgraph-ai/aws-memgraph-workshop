@@ -67,3 +67,6 @@ conflicts with things you already have running.  The address range
 is in `Pulumi.workshop.yaml` so modify the config in that file if you
 get a conflict in the deploy.
 
+## What's next?
+
+Next: [Deploy TrustGraph to AWS](deploy.md)

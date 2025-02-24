@@ -77,3 +77,7 @@ This can be installed using Brew:
 ```
 brew install pulumi
 ```
+
+## What's next?
+
+Next: [Prepare AWS](prepare-aws.md)

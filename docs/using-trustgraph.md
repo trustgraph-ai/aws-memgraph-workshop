@@ -116,3 +116,6 @@ Things you can do...
 
 ![Screenshot of Graph Viz](workbench-graph-viz.png)
 
+## What's next?
+
+Next: [Working with Memgraph](using-memgraph.md)

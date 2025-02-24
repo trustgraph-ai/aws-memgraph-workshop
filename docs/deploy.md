@@ -74,3 +74,6 @@ from outside the instance, so the above command opens network tunnels
 over SSH to be able to connect, so you don't need to worry about
 malicious actors connecting to your running service.
 
+## What's next?
+
+Next: [Working with TrustGraph](using-trustgraph.md)

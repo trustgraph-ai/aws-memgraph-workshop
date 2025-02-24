@@ -92,3 +92,10 @@ in investigation 195201, where Cirrus aircraft is also mentioned.
 Try increasing the limit, changing hop size, and also changing the URIs to
 see if you can find more interesting connections.  Or just changing the
 query to filter out irrelevant things.
+
+## What's next?
+
+When you are finished:
+
+[Undeploy, delete everything deployed earlier](docs/undeploy.md)
+
